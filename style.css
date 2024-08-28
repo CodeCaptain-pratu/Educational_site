@@ -212,6 +212,10 @@ p {
 }
 
 @media (max-width: 1094px) {
+  /* font size has been reduce  */
+  header nav ul li a {
+    font-size: 1rem;
+  }
   .firstslider {
     height: auto;
   }
@@ -1019,10 +1023,10 @@ footer .bottomline {
             .right-section{
               height: 60vh;
             }
-            .form-container
+            /* .form-container
             {
               
-            }
+            } */
         }
   
 
